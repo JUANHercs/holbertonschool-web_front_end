@@ -10,7 +10,7 @@ body {
     background-color: $back_color; }
 
 p {
-    color: &$text_color; }
+    color: $text_color; }
 
 h2 {
     background-color: $back_color; }
